@@ -1,0 +1,10 @@
+.pagination-Sec{
+    display:flex;
+    justify-content:flex-end;
+    align-items:center;
+}
+.pageBtn{
+    border:1px solid #000000;
+    padding:.2em;
+    margin:.5em;
+}

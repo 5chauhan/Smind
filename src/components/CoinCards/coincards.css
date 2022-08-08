@@ -1,0 +1,18 @@
+.coin-cards{
+    background-color: rgba(88, 96, 140, 0.614);
+    margin: 0.5em;
+    box-shadow: 0 20 10px #233181;
+    display:flex;
+    justify-content: space-between;
+    padding: .25em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 10px;
+    
+   
+}
+.coin-cards .coin-cards-sec{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align:left;
+}
